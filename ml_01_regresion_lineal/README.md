@@ -1,3 +1,3 @@
-Prácticas y ejemplos de Regresión Lineal con Scikit-learn".
+Linear Regression Practices and Examples with Scikit-learn.
 
 
